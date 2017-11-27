@@ -8,7 +8,7 @@
 /* Uses a sidebar at the right side      */
 /* outputs inside html so no header etc  */
 /* ===================================== */
-//test
+
 //error_reporting(E_ALL);
 //ini_set('display_errors', 1);
 
