@@ -19,7 +19,7 @@
 	$UseDir 			= '';
 	$CommonFileDir		= 'commonfiles/';
 	$scriptnaam			= 'Webkaart';
-	$scriptversie		= 'V1.0';
+	$scriptversie		= 'V1.1';
 	$copyrightstring	= '(c)2017 www.hoogspanningsnet.com';
 	$KaartTitel			= 'HoogspanningsNet Netkaart';
 	$KaartVersie		= '7.0b';

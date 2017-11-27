@@ -13,15 +13,15 @@
  
  $IconDir 		= 'files/';
  $UseDir 		= '';
- $WebServer 		= 'https://netkaart.hoogspanningsnet.com/';
+ $WebServer 		= 'https://testserver.hoogspanningsnet.com/netkaart/';
  $CommonFileDir		= 'commonfiles/';
  $StyleFile 		= 'stijlen.txt';
  $scriptnaam		= 'GE-kaart';
- $scriptversie	= 'V1.2';
+ $scriptversie	= 'V1.3';
  $copyrightstring    = '(c)2017 www.hoogspanningsnet.com';
- $KaartVersie		= 'Versie 6.0';
- $KaartDatum		= 'mei 2017';
- $KaartNaam		= 'Pocket';
+ $KaartVersie		= 'Versie 7.0b';
+ $KaartDatum		= 'mei 2018';
+ $KaartNaam		= 'Worlddomination';
  $KaartCredits	= '<p>Sommige rechten voorbehouden. Bezoek het <a href="http://www.hoogspanningsnet.com/google-earth/">netkaartenportal</a> of het '.
 			  '<a href="http://www.hoogspanningsforum.com/viewforum.php?f=13">netkaartsubforum</a> op onze site voor extra informatie, '.
 			  'uitgebreide documentatie, feedback en meer.</p>'.

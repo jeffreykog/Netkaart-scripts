@@ -8,7 +8,7 @@ Frequency of KML file/service updates:
 	Office of Primary Responsibility: 	http://hoogspanningsnet.com
 	Website 							http://www.hoogspanningsnet.com/about/contact/
 	Source of Information: 				Hoogspanningsnet.com Contributors
-	Copyrights:							Hoogspanningsnet.com
+	Copyrights:							Hoogspanningsnet.com 
 -->
 
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -16,7 +16,7 @@ Frequency of KML file/service updates:
 	<name>Database Netkaart BeNeLux</name>
 	<open>1</open>
 	<Link>
-		<href>https://netkaart.hoogspanningsnet.com/kmlnetkaart.php</href>
+		<href>https://testserver.hoogspanningsnet.com/netkaart/kmlnetkaart.php</href>
 		<refreshMode>onExpire</refreshMode>
 	</Link>
 </NetworkLink>
