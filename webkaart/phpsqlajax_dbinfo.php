@@ -14,7 +14,7 @@
 
 	require_once ('/home/deb99417/domains/hoogspanningsnet.com/netkaart_config/webkaart_login.php');
 	
-	$WebServer 			= 'https://webkaart.hoogspanningsnet.com/';
+	$WebServer 			= 'https://testserver.hoogspanningsnet.com/webkaart/';
 	$IconDir 			= 'files/';
 	$UseDir 			= '';
 	$CommonFileDir		= 'commonfiles/';
@@ -22,9 +22,9 @@
 	$scriptversie		= 'V1.0';
 	$copyrightstring	= '(c)2017 www.hoogspanningsnet.com';
 	$KaartTitel			= 'HoogspanningsNet Netkaart';
-	$KaartVersie		= '6.0';
-	$KaartDatum			= 'Mei 2017';
-	$KaartNaam			= 'Pocket';
+	$KaartVersie		= '7.0b';
+	$KaartDatum			= 'Mei 2018';
+	$KaartNaam			= 'Worlddomination';
 
 	$EHVVoltagesMin		= 245;  		// Vanaf deze spanning worden de verbindingen altijd weergegeven
 	$HVVoltagesMin		= 145;			// Deze spanningen tm $EHVVoltagesMin worden weergegeven vanaf $HVNetZoomLevel
