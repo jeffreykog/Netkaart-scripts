@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Information Current As Of 2016-08-29 10:00:00Z
+Frequency of KML file/service updates:
+	KML updated irregularly every 3-6 months.
+	
+	Office of Primary Responsibility: 	http://hoogspanningsnet.com
+	Website 							http://www.hoogspanningsnet.com/about/contact/
+	Source of Information: 				Hoogspanningsnet.com Contributors
+	Copyrights:							Hoogspanningsnet.com
+-->
+
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>Database Netkaart BeNeLux</name>
+	<open>1</open>
+	<Link>
+		<href>https://netkaart.hoogspanningsnet.com/kmlnetkaart.php</href>
+		<refreshMode>onExpire</refreshMode>
+	</Link>
+</NetworkLink>
+</kml>

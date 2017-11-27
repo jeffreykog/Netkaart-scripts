@@ -1,0 +1,384 @@
+<!-- ============================================================ -->
+<!-- Definitie van netkaart stijlen (c) 2016 Hoogspanningsnet.com -->
+<!-- KML by BaDu                                                  -->
+<!-- Styles in this document are based on the netkaart bijbel     -->
+<!-- ============================================================ -->
+
+<Stijlen><!--Definitie van netkaart stijlen (c) 2016 Hoogspanningsnet.com-->
+	<Kleuren>
+	<Spanning Naam="Netvlak &gt;1200"  LaagGrens="1200.1" HoogGrens="9999.0" TrivialeKleurNaam="(niet besloten)">
+		<Verbinding>
+			<Lijn Color="FFFFFF" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="FFFFFF" Alpha="100" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FFFFFF" Size="1.0" ></Icoon>
+			<Label Color="FFFFFF" Size="0.8" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFFFFF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFFFFF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FFFFFF" Size="0.7"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFFFF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 1051-1200" LaagGrens="1050.1" HoogGrens="1200.0" TrivialeKleurNaam="(niet besloten)">
+		<Verbinding>
+			<Lijn  Color="FFFFFF" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="FFFFFF" Alpha="100" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FFFFFF" Size="1.0" ></Icoon>
+			<Label Color="FFFFFF" Size="0.8" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFFFFF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFFFFF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FFFFFF" Size="0.7"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFFFF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 801-1050"  LaagGrens="800.1"  HoogGrens="1050.0" TrivialeKleurNaam="(niet besloten)">
+		<Verbinding>
+			<Lijn  Color="FFFFFF" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="FFFFFF" Alpha="100" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FFFFFF" Size="1.0" ></Icoon>
+			<Label Color="FFFFFF" Size="0.9" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFFFFF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFFFFF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FFFFFF" Size="0.7"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFFFF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 551-800"   LaagGrens="550.1"  HoogGrens="800.0"  TrivialeKleurNaam="ENTSO-E paarszwart">
+		<Verbinding>
+			<Lijn  Color="184077" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="184077" Alpha="90" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="12315A" Size="1.0" ></Icoon>
+			<Label Color="12315A" Size="0.9" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="184077" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="184077" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="12315A" Size="0.7"></Icoon>
+			<Label Color="12315A" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFFFF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="12315A" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 421-550"   LaagGrens="420.1"  HoogGrens="550.0"  TrivialeKleurNaam="ENTSO-E lila">
+		<Verbinding>
+			<Lijn  Color="FF00FF" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="FF00FF" Alpha="90" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="DF51E0" Size="1.0" ></Icoon>
+			<Label Color="F000F0" Size="0.9" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FF00FF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FF00FF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="DF51E0" Size="0.7"></Icoon>
+			<Label Color="F000F0" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FF00FF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="F000F0" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 363-420"   LaagGrens="362.1"  HoogGrens="420.0"  TrivialeKleurNaam="Rood">
+		<Verbinding>
+			<Lijn  Color="FF0000" Alpha="100" Width="3.0" ></Lijn>
+			<Kabel Color="FF8F91" Alpha="70" Width="3.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="E30000" Size="1.0" ></Icoon>
+			<Label Color="E30000" Size="0.9" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FF0000" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FF0000" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="E30000" Size="0.7"></Icoon>
+			<Label Color="E30000" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FF0000" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="E30000" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 246-362"   LaagGrens="245.1"  HoogGrens="362.0"  TrivialeKleurNaam="ENTSO-E beige bleker">
+		<Verbinding>
+			<Lijn  Color="F3D15C" Alpha="100" Width="2.5" ></Lijn>
+			<Kabel Color="F3D15C" Alpha="70" Width="2.5" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="E1B311" Size="1.0" ></Icoon>
+			<Label Color="E1B311" Size="0.8" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="F3D15C" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="F3D15C" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="E1B311" Size="0.7"></Icoon>
+			<Label Color="E1B311" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="F3D15C" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="E1B311" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 171-245"   LaagGrens="170.1"  HoogGrens="245.0"  TrivialeKleurNaam="Vaalgroen">
+		<Verbinding>
+			<Lijn  Color="63C64A" Alpha="100" Width="2.5" ></Lijn>
+			<Kabel Color="A6FFA6" Alpha="80" Width="2.5" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="68B640" Size="1.0" ></Icoon>
+			<Label Color="68B640" Size="0.8" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="63C64A" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="63C64A" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="68B640" Size="0.7"></Icoon>
+			<Label Color="68B640" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="63C64A" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="68B640" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 146-170"   LaagGrens="145.1"  HoogGrens="170.0"  TrivialeKleurNaam="Blauw">
+		<Verbinding>
+			<Lijn  Color="0055FF" Alpha="100" Width="2.2" ></Lijn>
+			<Kabel Color="00FFFF" Alpha="70" Width="2.2" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="2E63B7" Size="0.9" ></Icoon>
+			<Label Color="0191FF" Size="0.7" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="0055FF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="0055FF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="0055FF" Size="0.7"></Icoon>
+			<Label Color="0191FF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="0055FF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="0191FF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 124-145"   LaagGrens="123.1"  HoogGrens="145.0"  TrivialeKleurNaam="Blauwzwart">
+		<Verbinding>
+			<Lijn  Color="48485E" Alpha="100" Width="2.2" ></Lijn>
+			<Kabel Color="A4A4B9" Alpha="100" Width="2.2" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="26344F" Size="0.9" ></Icoon>
+			<Label Color="26344F" Size="0.7" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="48485E" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="48485E" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="26344F" Size="0.7"></Icoon>
+			<Label Color="26344F" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="48485E" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="26344F" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 72,6-123"  LaagGrens="72.5"   HoogGrens="123.0"  TrivialeKleurNaam="Zwart">
+		<Verbinding>
+			<Lijn  Color="000000" Alpha="100" Width="2.1" ></Lijn>
+			<Kabel Color="B8B8B8" Alpha="100" Width="2.1" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="585858" Size="0.9" ></Icoon>
+			<Label Color="000000" Size="0.7" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="000000" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="000000" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="C1C1C1" Size="0.7"></Icoon>
+			<Label Color="000000" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="585858" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="000000" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 66,1-72,5"   LaagGrens="66.1"   HoogGrens="72.4"   TrivialeKleurNaam="Elia-bruin">
+		<Verbinding>
+			<Lijn  Color="92640d" Alpha="100" Width="1.7" ></Lijn>
+			<Kabel Color="D48D00" Alpha="70" Width="1.7" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="AF7A3F" Size="0.8" ></Icoon>
+			<Label Color="FF9600" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="92640d" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="92640d" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="AF7A3F" Size="0.7"></Icoon>
+			<Label Color="FF9600" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="92640d" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FF9600" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 60,1-66"     LaagGrens="60.0"   HoogGrens="66.0"   TrivialeKleurNaam="Oranje">
+		<Verbinding>
+			<Lijn  Color="FFAA00" Alpha="100" Width="1.7" ></Lijn>
+			<Kabel Color="FFAA00" Alpha="60" Width="1.7" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FF8000" Size="0.8" ></Icoon>
+			<Label Color="FF8000" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFAA00" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFAA00" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FF8000" Size="0.7"></Icoon>
+			<Label Color="FF8000" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFAA00" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FF8000" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 40,5-60"   LaagGrens="40.5"   HoogGrens="59.9"   TrivialeKleurNaam="Geel">
+		<Verbinding>
+			<Lijn  Color="FFFF00" Alpha="100" Width="1.7" ></Lijn>
+			<Kabel Color="FFFF00" Alpha="50" Width="1.7" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FFEE01" Size="0.8" ></Icoon>
+			<Label Color="FFEE01" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFFF00" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFFF00" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FFEE01" Size="0.7"></Icoon>
+			<Label Color="FFEE01" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFF00" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FFEE01" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 30-40,4"   LaagGrens="30.0"   HoogGrens="40.4"   TrivialeKleurNaam="Paars">
+		<Verbinding>
+			<Lijn  Color="C479C4" Alpha="100" Width="1.4" ></Lijn>
+			<Kabel Color="C479C4" Alpha="70" Width="1.4" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="A349A4" Size="0.8" ></Icoon>
+			<Label Color="B879FF" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="C479C4" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="C479C4" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="A349A4" Size="0.7"></Icoon>
+			<Label Color="B879FF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="C479C4" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="B879FF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 17,6-29,9"   LaagGrens="17.6"   HoogGrens="29.9"   TrivialeKleurNaam="Bleekgroen">
+		<Verbinding>
+			<Lijn  Color="2CE243" Alpha="100" Width="1.3" ></Lijn>
+			<Kabel Color="6CEB7C" Alpha="70" Width="1.3" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="55FE3D" Size="0.8" ></Icoon>
+			<Label Color="55FE3D" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="2CE243" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="2CE243" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="6CEB7C" Size="0.7"></Icoon>
+			<Label Color="6CEB7C" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="2CE243" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="6CEB7C" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 12,1-17,5"   LaagGrens="12.1"   HoogGrens="17.5"   TrivialeKleurNaam="Zandbruin">
+		<Verbinding>
+			<Lijn  Color="BD8D46" Alpha="100" Width="1.2" ></Lijn>
+			<Kabel Color="BD8D46" Alpha="80" Width="1.2" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="9C9C38" Size="0.8" ></Icoon>
+			<Label Color="9C9C38" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="BD8D46" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="BD8D46" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="9C9C38" Size="0.7"></Icoon>
+			<Label Color="9C9C38" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="BD8D46" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="9C9C38" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 7,3-12"    LaagGrens="7.3"    HoogGrens="12.0"   TrivialeKleurNaam="Roestbruin">
+		<Verbinding>
+			<Lijn  Color="622222" Alpha="100" Width="1.2" ></Lijn>
+			<Kabel Color="622222" Alpha="90" Width="1.2" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="780000" Size="0.8" ></Icoon>
+			<Label Color="780000" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="622222" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="622222" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="582C2C" Size="0.7"></Icoon>
+			<Label Color="582C2C" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="622222" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="582C2C" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 3,6-7,2"   LaagGrens="3.6"    HoogGrens="7.2"    TrivialeKleurNaam="Bleekblauw">
+		<Verbinding>
+			<Lijn  Color="99B0D0" Alpha="100" Width="1.0" ></Lijn>
+			<Kabel Color="99B0D0" Alpha="80" Width="1.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="709EBE" Size="0.8" ></Icoon>
+			<Label Color="709EBE" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="99B0D0" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="99B0D0" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="709EBE" Size="0.7"></Icoon>
+			<Label Color="709EBE" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="99B0D0" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="709EBE" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak 1,0-3,5"   LaagGrens="1.0"    HoogGrens="3.5"    TrivialeKleurNaam="Bleek zeegroen">
+		<Verbinding>
+			<Lijn  Color="81BEB1" Alpha="100" Width="1.0" ></Lijn>
+			<Kabel Color="81BEB1" Alpha="80" Width="1.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="81BEB1" Size="1.5" ></Icoon>
+			<Label Color="81BEB1" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="A5D1C8" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="A5D1C8" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="81BEB1" Size="0.7"></Icoon>
+			<Label Color="81BEB1" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="A5D1C8" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="81BEB1" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Netvlak &lt;1,0"      LaagGrens="0.1"    HoogGrens="0.9"    TrivialeKleurNaam="Roze">
+		<Verbinding>
+			<Lijn  Color="E8D0D0" Alpha="100" Width="1.0" ></Lijn>
+			<Kabel Color="E8D0D0" Alpha="80" Width="1.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="D9B3B3" Size="0.8" ></Icoon>
+			<Label Color="D9B3B3" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="E8D0D0" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="E8D0D0" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="D9B3B3" Size="0.7"></Icoon>
+			<Label Color="D9B3B3" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="E8D0D0" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="D9B3B3" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	<Spanning Naam="Spanningsloos"     LaagGrens="0.0"    HoogGrens="0.0"    TrivialeKleurNaam="Hard wit">
+		<Verbinding>
+			<Lijn  Color="FFFFFF" Alpha="100" Width="2.0" ></Lijn>
+			<Kabel Color="FFFFFF" Alpha="70" Width="2.0" ></Kabel></Verbinding>
+		<StationsIcoon>
+			<Icoon Color="FFFFFF" Size="0.8" ></Icoon>
+			<Label Color="FFFFFF" Size="0.6" Alpha="100"></Label></StationsIcoon>
+		<Terreinmarkering>
+			<Rand    Color="FFFFFF" Alpha="100" Width="1.0"></Rand>
+			<Vulling Color="FFFFFF" Alpha="30"></Vulling></Terreinmarkering>
+		<Neticoon>
+			<Icoon Color="FFFFFF" Size="0.7"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.6"></Label></Neticoon>
+		<Masticoon>
+			<Icoon Color="FFFFFF" Size="0.7" Alpha="70" href="http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"></Icoon>
+			<Label Color="FFFFFF" Alpha="100" Size="0.7"></Label></Masticoon>
+	</Spanning>
+	</Kleuren>
+</Stijlen>

@@ -1,0 +1,6531 @@
+<Style id="400.0L">
+<LineStyle>
+<color>fe0000ff</color>
+<width>3.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="380.0L">
+<LineStyle>
+<color>fe0000ff</color>
+<width>3.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="350.0L">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="285.0L">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="275.0L">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="250.0L">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="225.0L">
+<LineStyle>
+<color>fe4ac663</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="220.0L">
+<LineStyle>
+<color>fe4ac663</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="150.0L">
+<LineStyle>
+<color>feff5500</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="132.0L">
+<LineStyle>
+<color>fe59352f</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="125.0L">
+<LineStyle>
+<color>fe59352f</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="110.0L">
+<LineStyle>
+<color>fe000000</color>
+<width>2.1</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="90.0L">
+<LineStyle>
+<color>fe000000</color>
+<width>2.1</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="70.0L">
+<LineStyle>
+<color>fe0d6492</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="65.0L">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="63.0L">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="60.0L">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="50.0L">
+<LineStyle>
+<color>fe00ffff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="45.0L">
+<LineStyle>
+<color>fe00ffff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="36.0L">
+<LineStyle>
+<color>fe9e469e</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="35.0L">
+<LineStyle>
+<color>fe9e469e</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="30.0L">
+<LineStyle>
+<color>fe9e469e</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="25.0L">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="20.0L">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="11.0L">
+<LineStyle>
+<color>fe2f2f97</color>
+<width>1.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="10.0L">
+<LineStyle>
+<color>fe2f2f97</color>
+<width>1.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="0.0L">
+<LineStyle>
+<color>feffffff</color>
+<width>2.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="450.0K">
+<LineStyle>
+<color>e5ff00ff</color>
+<width>3.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="400.0K">
+<LineStyle>
+<color>b2918fff</color>
+<width>3.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="380.0K">
+<LineStyle>
+<color>b2918fff</color>
+<width>3.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="350.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="320.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="300.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="285.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="275.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="250.0K">
+<LineStyle>
+<color>b25cd1f3</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="225.0K">
+<LineStyle>
+<color>cca6ffa6</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="220.0K">
+<LineStyle>
+<color>cca6ffa6</color>
+<width>2.5</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="155.0K">
+<LineStyle>
+<color>b2ffff00</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="150.0K">
+<LineStyle>
+<color>b2ffff00</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="132.0K">
+<LineStyle>
+<color>fec6aea1</color>
+<width>2.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="110.0K">
+<LineStyle>
+<color>feb8b8b8</color>
+<width>2.1</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="90.0K">
+<LineStyle>
+<color>feb8b8b8</color>
+<width>2.1</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="70.0K">
+<LineStyle>
+<color>b2008dd4</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="66.0K">
+<LineStyle>
+<color>9900aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="65.0K">
+<LineStyle>
+<color>9900aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="63.0K">
+<LineStyle>
+<color>9900aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="60.0K">
+<LineStyle>
+<color>9900aaff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="50.0K">
+<LineStyle>
+<color>7f00ffff</color>
+<width>1.7</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="36.0K">
+<LineStyle>
+<color>b2c479c4</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="34.0K">
+<LineStyle>
+<color>b2c479c4</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="33.0K">
+<LineStyle>
+<color>b2c479c4</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="30.0K">
+<LineStyle>
+<color>b2c479c4</color>
+<width>1.4</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="26.0K">
+<LineStyle>
+<color>b27ceb6c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="25.0K">
+<LineStyle>
+<color>b27ceb6c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="23.0K">
+<LineStyle>
+<color>b27ceb6c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="21.0K">
+<LineStyle>
+<color>b27ceb6c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="20.0K">
+<LineStyle>
+<color>b27ceb6c</color>
+<width>1.3</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="11.0K">
+<LineStyle>
+<color>cc2f2f97</color>
+<width>1.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="10.0K">
+<LineStyle>
+<color>cc2f2f97</color>
+<width>1.2</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="0.0K">
+<LineStyle>
+<color>b2ffffff</color>
+<width>2.0</width>
+</LineStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="labelstijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label0stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=0</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe000078</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label10-0stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=10-0</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe000078</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-0stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-0</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-20</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-20-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-22stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-22</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-25</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-25-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-25-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-25-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-25-5</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-30</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-30-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-30-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-30-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-30-20</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-33</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-35stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-35</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-35-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-35-20</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-55stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-55</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-55-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-55-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-60</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-60-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-60-20</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label110-65-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=110-65-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label125stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=125</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=13</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe389c9c</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-110-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-110-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-125stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-125</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-16stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-16</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-33</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-50</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-65stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-65</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-66stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-66</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label132-66-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=132-66-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label145-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=145-50</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe389c9c</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-10-6,6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-10-6,6</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-132-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-132-50</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-20</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-20-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-22stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-22</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-23</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-23-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-23-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-25</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-25-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-25-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-25-23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-25-23</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-25-23-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-25-23-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-26stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-26</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-30</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-30-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-30-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-30-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-30-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-33</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-34stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-34</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-11-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-11-5</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-12</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-12-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-12-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-36-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-36-30</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50-13</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50-20-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50-23-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50-23-13</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-50-30-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-50-30-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-60</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-60-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-60-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-63</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-66stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-66</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-66-25-23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-66-25-23</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-10</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-10-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-10-6</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-12</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-15</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-15-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-15-5</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-15-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-15-6</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-15-6,6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-15-6,6</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-26stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-26</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-30-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-30-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-30-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-30-12</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-36-11</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label150-70-6.3stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=150-70-6.3</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label155-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=155-150</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label155-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=155-33</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label155-34stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=155-34</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=20-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label21stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=21</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-10</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-10</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-16stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-16</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-20-10</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-30</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-30-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-30-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-110-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-110-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-132-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-132-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-132-66stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-132-66</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-132-66-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-132-66-15</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-145-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-145-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-36-11</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-70</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-150-70-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-150-70-15</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-155stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-155</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-155-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-155-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-22stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-22</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-33</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-50-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-50-13</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-65stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-65</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-65-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-65-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-70</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label220-70-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=220-70-15</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-110-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-110-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-150-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-150-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-150-90stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-150-90</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-45stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-45</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-90stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-90</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label225-90-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=225-90-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=23</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label23-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=23-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-13</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-20-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-23</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label25-23-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=25-23-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label250-155stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=250-155</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label26stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=26</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe3dfe55</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label275stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=275</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label275-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=275-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=30</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label30-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=30-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label30-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=30-11</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label30-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=30-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label300-155stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=300-155</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label320-155stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=320-155</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.8</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=33</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label35-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=35-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-11</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-11-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-11-5</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-11-6,6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-11-6,6</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-12</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-15-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-15-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label36-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=36-5</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-110-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-110-10</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-110-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-110-11</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-110-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-110-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-110-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-110-30</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-36-11</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-36-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-36-12</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-36-15-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-36-15-11</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-150-70-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-150-70-10</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110-22stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110-22</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110-30</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110-35stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110-35</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-110-65-10-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-110-65-10-5</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-132-125-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-132-125-20</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-132-50-16stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-132-50-16</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-150-70-15-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-150-70-15-6</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-50</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-70</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-220-70-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-220-70-15</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-30</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-300-150-110stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-300-150-110</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-320stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-320</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-320-250stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-320-250</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-400stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-400</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-70</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label380-70-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=380-70-12</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-132-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-132-33</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-150-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-220-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-220-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-220-150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-220-150-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-225stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-225</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-225-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-225-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-225-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-225-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-225-90stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-225-90</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-25</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-275stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-275</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-275-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-275-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-285-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-285-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-325stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-325</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-350-250-150stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-350-250-150</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-380stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-380</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-400stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-400</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-400-132stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-400-132</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-400-150-60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-400-150-60</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-63</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label400-90stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=400-90</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label45stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=45</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label450-380stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=450-380</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fef000f0</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label450-400stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=450-400</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fef000f0</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label450-420stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=450-420</href></Icon>
+<scale>1.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.9</scale>
+<color>fef000f0</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=5</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>febe9e70</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-0,35stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-0,35</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-1stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-1</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-11-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-11-6</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-12</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-12,5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-12,5</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-13</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-16stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-16</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-20-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-20-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-23stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-23</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-25</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-25-10-6.6-3.3stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-25-10-6.6-3.3</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-25-3.3stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-25-3.3</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-33stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-33</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label50-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=50-6</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label55-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=55-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label60stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=60</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label60-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=60-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label60-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=60-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label60-16stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=60-16</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label60-30stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=60-30</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=63</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label63-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=63-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label63-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=63-20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label63-45stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=63-45</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label65stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=65</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label65-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=65-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label65-10-5stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=65-10-5</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label65-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=65-20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label65-63-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=65-63-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label66stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=66</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label66-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=66-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label66-20stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=66-20</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label66-25stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=66-25</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-11</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-12</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-13stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-13</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-15-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-15-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-15-12stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-15-12</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-15-6.3stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-15-6.3</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-26-15stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-26-15</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-36-10stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-36-10</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-36-11stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-36-11</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-6</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label70-6,6stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=70-6,6</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label90stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=90</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label90-21stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=90-21</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="label90-63stijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=90-63</href></Icon>
+<scale>1.6</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="labelATstijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=AT</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="labelMSstijl">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/iconnew.php?spans=MS</href></Icon>
+<scale>1.5</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-0.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=0.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-20.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=20.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe7ceb6c</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-30.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=30.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-36.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=36.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-50.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=50.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-63.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=63.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-65.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=65.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-70.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=70.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-90.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=90.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-110.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=110.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-132.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=132.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe654330</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-150.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=150.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-220.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=220.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-225.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=225.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-275.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=275.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe11b3e1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-380.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=380.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="node-400.pngknoop">
+<IconStyle>
+<Icon><href> <![CDATA[https://netkaart.hoogspanningsnet.com/iconnew.php?type=knpp&spans=400.0]]></href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="netopening.pngopen">
+<IconStyle>
+<Icon><href>https://netkaart.hoogspanningsnet.com/files/netopening.png</href></Icon>
+<scale>0.7</scale>
+</IconStyle>
+<LabelStyle>
+<scale>0.6</scale>
+<color>feffffff</color>
+</LabelStyle>
+</Style>
+<Style id="0.0SO">
+<LineStyle>
+<color>feffffff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cffffff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="10.0SO">
+<LineStyle>
+<color>fe222262</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c222262</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="13.0SO">
+<LineStyle>
+<color>fe468dbd</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c468dbd</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="15.0SO">
+<LineStyle>
+<color>fe468dbd</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c468dbd</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="20.0SO">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c43e22c</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="21.0SO">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c43e22c</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="23.0SO">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c43e22c</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="25.0SO">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c43e22c</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="26.0SO">
+<LineStyle>
+<color>fe43e22c</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c43e22c</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="30.0SO">
+<LineStyle>
+<color>fec479c4</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cc479c4</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="33.0SO">
+<LineStyle>
+<color>fec479c4</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cc479c4</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="35.0SO">
+<LineStyle>
+<color>fec479c4</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cc479c4</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="36.0SO">
+<LineStyle>
+<color>fec479c4</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cc479c4</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="45.0SO">
+<LineStyle>
+<color>fe00ffff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00ffff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="50.0SO">
+<LineStyle>
+<color>fe00ffff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00ffff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="60.0SO">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="63.0SO">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="65.0SO">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="66.0SO">
+<LineStyle>
+<color>fe00aaff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="70.0SO">
+<LineStyle>
+<color>fe0d6492</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c0d6492</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="90.0SO">
+<LineStyle>
+<color>fe000000</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c000000</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="110.0SO">
+<LineStyle>
+<color>fe000000</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c000000</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="125.0SO">
+<LineStyle>
+<color>fe5e4848</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5e4848</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="132.0SO">
+<LineStyle>
+<color>fe5e4848</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5e4848</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="150.0SO">
+<LineStyle>
+<color>feff5500</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cff5500</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="155.0SO">
+<LineStyle>
+<color>feff5500</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cff5500</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="220.0SO">
+<LineStyle>
+<color>fe4ac663</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c4ac663</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="225.0SO">
+<LineStyle>
+<color>fe4ac663</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c4ac663</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="250.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="270.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="275.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="285.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="300.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="320.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="325.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="350.0SO">
+<LineStyle>
+<color>fe5cd1f3</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c5cd1f3</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="380.0SO">
+<LineStyle>
+<color>fe0000ff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c0000ff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="400.0SO">
+<LineStyle>
+<color>fe0000ff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4c0000ff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="450.0SO">
+<LineStyle>
+<color>feff00ff</color>
+<width>1.0</width>
+</LineStyle>
+<PolyStyle>
+<color>4cff00ff</color>
+</PolyStyle>
+<BalloonStyle>
+<bgColor>ffececec</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB0.0">
+<IconStyle>
+<color>b2ffffff</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feffffff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB20.0">
+<IconStyle>
+<color>b243e22c</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe7ceb6c</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB30.0">
+<IconStyle>
+<color>b2c479c4</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff79b8</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB50.0">
+<IconStyle>
+<color>b200ffff</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe01eeff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB63.0">
+<IconStyle>
+<color>b200aaff</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe0080ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB70.0">
+<IconStyle>
+<color>b20d6492</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe0096ff</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB110.0">
+<IconStyle>
+<color>b2585858</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fec1c1c1</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB132.0">
+<IconStyle>
+<color>b25e4848</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe4f3426</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB150.0">
+<IconStyle>
+<color>b2ff5500</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>feff9101</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB220.0">
+<IconStyle>
+<color>b24ac663</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB225.0">
+<IconStyle>
+<color>b24ac663</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe40b668</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>
+<Style id="MB380.0">
+<IconStyle>
+<color>b20000ff</color>
+<scale>0.7</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>0.7</scale>
+<color>fe0000e3</color>
+</LabelStyle>
+<BalloonStyle>
+<bgColor>ffe8e8e8</bgColor>
+<text><![CDATA[
+<iframe width="640" height="360" frameborder="0" scrolling="no" src="https://netkaart.hoogspanningsnet.com/balloon3.php?ID=$[ID]&v=3"></iframe>
+]]></text>
+</BalloonStyle>
+</Style>

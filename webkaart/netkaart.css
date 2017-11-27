@@ -1,0 +1,826 @@
+body,html {
+  height:100%;
+  margin:0px;
+}
+.antiverveeltjes { 
+	display:none;
+}
+.feedbackwrapper{
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.feedbackform {
+	display:table; 
+	width:300px;
+}
+.feedbackform h1{
+	margin: 0px;
+	font-size: 1.2em;
+    font-weight: bold;
+}
+.feedbackform input {
+	display:table-cell; 
+	width:100%;
+}
+.feedbacksingle {
+	display: table-row;
+}
+.feedbackcell {
+	display: table-cell;
+	width: 33%;
+}
+.feedbacksingle input{
+	display: table-cell;
+	width: 33%;
+}
+.feedbacksingle img {
+	display: table-cell;
+	width: 33%;
+}
+
+.feedbackform textarea {
+	display:table-cell; 
+	width:100%;
+}
+.feedbackform a {
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  display:table-cell; 
+  width:100%;
+}
+.feedbackform textarea {
+	resize: vertical;
+}
+.container {
+	display:	flex;
+	flex-direction:	column;
+	height:	100%;
+	overflow-y: none;
+}	
+.topbar {
+	background-color: #cde645;
+	height: 30px;
+    border-bottom: 3px solid #2d5a9f;
+    color: #666666;
+}
+.toptextleft {
+	width: 33.33333%;
+	float: left;
+	text-align: left;
+}
+.toptextmiddle {
+	width: 33.33333%;
+	float: left;
+	text-align: center;
+	font: 15px arial, sans-serif;
+    font-weight: bold;
+    line-height: 28px;
+    vertical-align: middle;
+}
+.toptextright {
+	width: 33.33333%;
+	float: left;
+	text-align: right;
+	font: 12px arial, sans-serif;
+    font-weight: bold;
+    line-height: 28px;
+    vertical-align: bottom;
+}
+.wrapper {
+	//-flex: 1 1 auto;
+   	flex-grow:1;
+   	overflow-y: none;
+   	min-height: 0px;
+   	background-color:lightgray;
+   	display:flex;
+   	flex-direction:column;
+   	position:relative;
+}      
+#map {
+	flex-grow:1;
+	z-index:10;
+}
+
+h2 {
+	margin: 0;
+}
+#sidebar {
+	padding: 5px;
+	overflow-x:hidden;
+}
+#sidebar h3 {
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+#sidebar ul {
+	margin-top: 0px;
+	padding-left: 25px;
+}
+
+#legendbar {
+	padding: 5px;
+	overflow-x:hidden;
+}
+
+/* ============================================================
+  Styles for sidebar which shows item info
+============================================================ */
+#balloonbar {
+	overflow: hidden;
+	padding-top:37px;
+	padding-bottom:5px;
+	padding-left: 15px;
+	padding-right: 0px; 
+}
+.balloon-outline {
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+	
+}
+.balloon-foto-landscape img {
+	margin-bottom: 15px;
+	width: 315px; 
+	max-height: 315px;
+	border: 1px solid black
+}
+.balloon-image-link {
+  	font-size: 0;
+}
+.balloon-foto-portrait {
+  	padding-bottom: 15px;
+}
+.balloon-foto-portrait img {
+	height: 315px;
+	max-width: 315px;
+	border: 1px solid black;
+    display:block;
+    margin:auto;
+ }
+ .balloon-foto-portrait h2 {
+	position: relative;
+	top: -150px;
+	left: 15px;
+   	transform: rotate(55deg);
+   	-webkit-transform: rotate(55deg);
+	font-size: 20px;
+	color:rgba(255, 0, 0, 0.5);
+}
+.balloon-gegevens {
+	width: 312px;
+	border-top: 1px solid lightgray;
+	padding-left: 6px;
+}
+.balloon-header {
+	width: 100%;
+	padding-top:12px;
+}
+.balloon-header h1 {
+	margin: 0px;
+	font-size: 1.2em;
+    font-weight: bold;
+    padding-bottom: 16px;
+}
+.balloon-header a {
+    color: black;
+    text-decoration: none;
+}
+.balloon-gegevensrij {
+	display: table-row;
+}
+.balloon-gegtitel {
+	font-weight: bold;
+	display: table-cell;
+	padding-right: 15px;
+}
+.balloon-gegwaarde {
+	display: table-cell;
+}
+.balloon-bigtitel {
+	font-weight: bold;
+	padding-top: 5px;
+}
+.balloon-bigwaarde {
+}
+.balloon-opmtitel {
+	padding-top: 5px;
+	font-weight: bold;
+}
+.balloon-opmwaarde {
+}
+.balloon-logo {
+	padding-top: 10px;
+	padding-left: 6px;
+}
+.balloon-logo img{
+	float: right; 
+	padding-right: 5px;
+}
+
+/* ============ edititem styles ========================= */
+.edititem-header {
+	width: 100%;
+	height: 30px;
+}
+.edititem-header h1 {
+	margin: 0px;
+	font-size: 1.2em;
+    font-weight: bold;
+}
+.edititem-title {
+}
+.edititem-button {
+	float: right;	
+	position: absolute;
+	top: 37px;
+	right: 0px;
+}
+.feedbackform a {
+  font-size: 12px;
+  margin-right: 6px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  display:table-cell; 
+  width:100%;
+}
+.edititem-header a{
+  font-size: 12px;
+  margin-right: 6px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  float: right;
+  font-weight: normal;
+}
+.edititem-outline {
+	width: 100%;
+	height: 100%;
+}
+.edititem-gegevens {
+	overflow-x: hidden;
+	overflow-y: auto;
+	height: calc(100% - 35px);
+	margin-right: 6px;
+}
+.edititem-gegrij {
+	display: table-row;
+}
+.edititem-foto {
+	margin-top: 10px;
+	max-height: 305px;
+	max-width: 305px;
+	border: 1px solid black;
+    display:block;
+}
+.edititem-fotoleeg {
+    display:block;
+}
+
+.edititem-gegIDtitel {
+	display: table-cell;
+	font-weight: bold;
+}
+
+.edititem-gegtitel {
+	display: table-cell;
+	font-weight: bold;
+	padding-top: 10px;
+	width: 90px;
+}
+.edititem-geginput {
+	display: table-cell;
+	padding-left:10px;
+	width: 100%;
+}
+.edititem-geginputsuff {
+	display: table-cell;
+	padding-left:10px;
+}
+
+.edititem-geginput input{
+	width: calc(100% - 10px);	
+}
+.edititem-geginputsuff input{
+	width: 100px;	
+}
+
+.edititem-geginput select{
+	width: calc(100% - 4px);	
+}
+.edititem-bigtitel {
+	font-weight: bold;
+	padding-top: 10px;
+	width: 100%;
+}
+.edititem-bigwaarde {
+	width: calc(100% - 10px);
+}
+.edititem-bigwaarde textarea {
+	width: 302px;
+}
+.edititem-bigwaarde i {
+	font-size: smaller;
+}
+.foutmelding {
+	font-style: italic;
+	color: red;
+}
+/* ========================================================= */
+.leaflet-tooltip-right::before {
+	border: 0px;
+}
+.netkaart-tooltip {
+	color: black;
+	text-shadow: 1px 1px #ffffff;
+	background-color: transparent;
+	border: 0px;
+	border-right-color: transparent;
+	box-shadow: none;
+	margin: 0px;
+	padding: 0px;
+}
+/* Status display */
+.leaflet-popup-pane {
+	z-index: 1000;
+}
+/* correct placement of hsn logo in attribution  */
+.leaflet-condensed-attribution .attributes-emblem {
+	padding-top: 0px;  
+}
+.customattrib-emblem-wrap {
+	padding-top: 5px; 
+}
+.leaflet-menu {
+}
+.leaflet-bar button {
+	line-height: 23px; 
+}
+.leaflet-bar button:hover {
+	line-height: 23px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+/* Safari and Chrome */
+	.leaflet-bar button:hover {
+		line-height: 30px;
+	}
+}
+.leaflet-sidebar {
+	width: 200px; 
+}
+.leaflet-sidebar.left.visible ~ .leaflet-left {
+    left: 200px; 
+}
+.leaflet-sidebar.right.visible ~ .leaflet-right {
+	right: 200px; 
+}
+.leaflet-sidebar.right.visible {
+	width: 360px;
+}
+.leaflet-sidebar .close {
+	z-index: 1000;
+	background: lightgray;
+	border-radius: 4px;
+	right: 16px;
+	top: 16px;
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+/* Safari and Chrome */
+	.leaflet-sidebar .close {
+		right: 16px;
+		top: 16px;
+	}
+}
+
+.leaflet-control-layers{
+}
+.leaflet-control-layers-scrollbar{
+  overflow-x:hidden;
+}
+.netkaart-searchbutton {
+ 	background-color: #fff;   
+ 	margin-left: 10px;
+ 	margin-top: 2px;
+ 	border: none;
+    height: 25px;
+    width: 25px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.netkaart-searchbutton:hover {
+	background-color: #f4f4f4;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+/* Safari and Chrome */
+	.leaflet-bar button:hover {
+		line-height: 30px;
+	}
+}
+
+.searchContainer {
+	z-index: 500;
+    top:2px;
+    left:10px;
+    box-shadow: 0 0px 0px gray;
+    height: 23px;
+    width: 300px;
+}
+.searchBox {
+    height:20px;
+    width: 236px;
+    margin-left: 6px;
+}
+.searchButton {
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+}
+.divider {
+    margin-left: 6px;
+    width: 24px;
+}
+.clearButton {
+    margin-left: 2px;
+    height: 20px;
+    width: 20px;
+    vertical-align: top;
+}
+.title {
+    line-height:26px;
+    font-height: 1.5;
+}
+.iconStyle {
+    width: 16px;
+    height: 16px;
+}
+.content {
+    height: 26px;
+    line-height:26px;
+    width: 299px; //1 pixel less than search container beacause of border
+}
+.listResult {
+    height: 26px;
+}
+.result {
+	width: 299px; //1 pixel less than search container beacause of border
+}
+
+/* ============================================================
+  SMALL SCREEN SETTINGS max 320P
+============================================================ */
+
+@media screen and (max-width: 320px) {
+	#balloonbar {
+		padding-left: 5px;
+	}
+	.leaflet-sidebar .close {
+		right: 6px;
+		top: 6px;
+	}
+	.leaflet-sidebar.right.visible {
+		width: 320px;
+	}
+	.edititem-gegevens {
+		overflow-x: auto;
+	}
+	.feedbackform {
+		width:290px;
+	}
+	.balloon-foto-landscape img {
+		width: 292px; 
+	}
+ 	.balloon-foto-portrait {
+    	padding-bottom: 0px;
+	}
+	.balloon-foto-portrait img {
+		max-width: 292px;
+ 	}
+ 	.balloon-foto-portrait h2 {
+ 		left: 15px;
+ 	}
+	.balloon-gegevens {
+		width: 292px;
+		padding-left: 0px;
+	}
+	.balloon-logo {
+		padding-left: 0px;
+	}
+	.toptextleft {
+		width: 30px;
+	}
+	.toptextmiddle {
+		width: 215px;
+		left: 30px;
+	}
+	.toptextright {
+		width: 70px;
+		left: 250px;
+	}
+}
+
+/* ============================================================
+  SMALL SCREEN SETTINGS max 240P
+============================================================ */
+
+@media screen and (max-width: 240px) {
+	#balloonbar {
+		padding-left: 5px;
+	}
+	.leaflet-sidebar .close {
+		right: 6px;
+		top: 6px;
+	}
+	.leaflet-sidebar.right.visible {
+		width: 240px;
+	}
+	.feedbackform {
+		width:210px;
+	}
+	.balloon-foto-landscape img {
+		width: 212px; 
+	}
+ 	.balloon-foto-portrait {
+    	padding-bottom: 0px;
+	}
+	.balloon-foto-portrait img {
+		max-width: 212px;
+ 	}
+ 	.balloon-foto-portrait h2 {
+ 		left: 25px;
+ 	}
+	.balloon-gegevens {
+		width: 212px;
+		padding-left: 0px;
+	}
+	.balloon-logo {
+		padding-left: 0px;
+	}
+	.toptextright {
+		display: none;
+	}
+	.toptextleft {
+		width: 30px;
+	}
+	.toptextmiddle {
+	}
+	.searchContainer {
+    	width: 220px;
+	}
+	.searchBox {
+    	height:20px;
+		width: 170px;
+	}
+	.searchButton {
+    	background:url('image/search_double_small.png') no-repeat;
+		margin-top:6px;
+		width: 16px;
+    	height: 22px;
+	}
+	.searchButton:hover {
+    	background:url('image/search_double_small.png') no-repeat -16px 0px;
+	}
+	.divider {
+    	margin-left: 3px;
+    	width: 16px;
+	}
+	.clearButton {
+ 		background: url("image/clear_multiple_small.png") no-repeat scroll 0 0;
+ 		margin-top: 6px;
+ 		margin-left: 2px;
+    	width: 16px;
+	}
+	.clearButton:hover {
+   		background:url('image/clear_multiple_small.png') no-repeat -16px 0px;
+	}
+	.content {
+    	width: 219px; //1 pixel less than search container beacause of border
+	}
+	.result {
+		width: 219px; //1 pixel less than search container beacause of border
+	}
+}
+
+/* ============================================================
+  COMMON
+============================================================ */
+#wrapper {
+  min-width: 600px;
+}
+
+#topbar {}
+
+.netkaart-form {
+	margin-top:10px;
+    background: #fff none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+.netkaart-settings {
+  display: table;
+  border: none;
+  width: 100%;
+  max-width:90%;
+}
+
+.netkaart-settings .netkaart-settings-row {
+  display: table-row;
+}
+.netkaart-settings .netkaart-settings-question,
+.netkaart-settings .netkaart-settings-switch {
+  display: table-cell;
+  vertical-align: middle;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.netkaart-settings .netkaart-settings-question {
+  font-size: 15px;
+}
+
+/* ============================================================
+  COMMON
+============================================================ */
+.netkaart-settings-toggle {
+  position: absolute;
+  margin-left: -9999px;
+  visibility: hidden;
+}
+.netkaart-settings-toggle + label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* ============================================================
+  SWITCH 2 - ROUND FLAT
+============================================================ */
+input.netkaart-settings-toggle-round-flat + label {
+  padding: 2px;
+  width: 40px;
+  height: 20px;
+  background-color: #dddddd;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-transition: background 0.4s;
+  -moz-transition: background 0.4s;
+  -o-transition: background 0.4s;
+  transition: background 0.4s;
+}
+input.netkaart-settings-toggle-round-flat + label:before, input.netkaart-settings-toggle-round-flat + label:after {
+  display: block;
+  position: absolute;
+  content: "";
+}
+input.netkaart-settings-toggle-round-flat + label:before {
+  top: 2px;
+  left: 2px;
+  bottom: 2px;
+  right: 2px;
+  background-color: #fff;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-transition: background 0.4s;
+  -moz-transition: background 0.4s;
+  -o-transition: background 0.4s;
+  transition: background 0.4s;
+}
+input.netkaart-settings-toggle-round-flat + label:after {
+  top: 4px;
+  left: 4px;
+  bottom: 4px;
+  width: 16px;
+  background-color: #dddddd;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  border-radius: 16px;
+  -webkit-transition: margin 0.4s, background 0.4s;
+  -moz-transition: margin 0.4s, background 0.4s;
+  -o-transition: margin 0.4s, background 0.4s;
+  transition: margin 0.4s, background 0.4s;
+}
+input.netkaart-settings-toggle-round-flat:checked + label {
+  background-color: #2074b6;
+}
+input.netkaart-settings-toggle-round-flat:checked + label:after {
+  margin-left: 20px;
+  background-color: #2074b6;
+}
+.netkaart-settings-option {
+   font-size: 15px;
+}
+.netkaart-settings-button {
+	font-size: 15px;
+	width:100%;
+	border-radius: 5px;
+	margin-top:10px;
+}
+.netkaart-legend {
+	font-size: 13px;
+}
+.netkaart-legend ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.netkaart-legend h3 {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.nice-select {
+  font-size: 15px;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  padding-left: 10px;
+}
+.nice-select .option {
+  height: 30px;
+  min-height: 30px;
+  line-height: 30px;
+  padding-left: 10px;
+}
+.netkaart-legend-table {
+	display: table;
+	border-collapse:separate;
+	margin-left: 5px;
+}
+.netkaart-legend-row {
+  	display: table-row;
+  	line-height: 14px; 
+}
+.netkaart-legend-cell-color {
+	font-size: 7px;
+	vertical-align: middle;
+	display: table-cell;
+	border: 2px solid white;
+}
+.netkaart-legend-cell-text {
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 5px;
+	font-size: 10px;
+}	
+.netkaart-legend-cell-head {
+	display: table-cell;
+	vertical-align: bottom;
+	text-align: center;
+	font-size: 10px;
+}	
+/* ============================================================
+  Change color of buttons when activated
+============================================================ */
+.show-search-active {
+	color: rgb(0, 0, 0);
+}
+.hide-search-active {
+	color: rgb(32, 116, 182);
+}
+.show-legendbar-active {
+	color: rgb(0, 0, 0);
+}
+.hide-legendbar-active {
+	color: rgb(32, 116, 182);
+}
+.show-sidebar-active {
+	color: rgb(0, 0, 0);
+}
+.hide-sidebar-active {
+	color: rgb(32, 116, 182);
+}

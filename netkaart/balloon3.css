@@ -1,0 +1,99 @@
+body {
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+	font-size: 13px;
+	line-height: 100%;
+	margin: 0px;
+}
+.omranding {
+    background-color: #ececec;
+    width: 640px;
+    height: 380px;
+}
+.header {
+	width: 100%;
+	height: 38px;
+}
+.header h1 {
+	margin: 0px;
+	padding-top: 10px;
+	float:left;
+	width: 530px;
+}
+.header img {
+	float: right;
+}
+.inhoud {
+	width: 100%;
+	height: 342px;
+}
+.foto-landscape a {
+	left:0;
+}
+.foto-landscape img {
+    width: auto; 
+    max-width: 352px; 
+    max-height: 235px;
+    float: left;
+}
+.foto-landscape .gegevens {
+	float: right;
+	width: 283px;
+    height: 235px;
+	overflow-y: auto;
+}
+.foto-portrait h2 {
+	position: absolute;
+	top: 180px;
+	left: 0px;
+   	transform: rotate(55deg);
+   	-webkit-transform: rotate(55deg);
+	font-size: 20px;
+	color: red;   	
+}
+.foto-portrait .gegevens {
+	float: right;
+	width: 400px;
+    height: 337px;
+    max-height: 337px;
+	overflow-y: auto;
+}
+.foto-portrait a {
+	left:0;
+}
+.foto-portrait img {
+    width: auto; 
+    max-width: 235px; 
+    max-height: 342px;
+    float: left;
+}
+.gegevensrij {
+	display: table-row;
+}
+.gegtitel {
+	font-weight: bold;
+	display: table-cell;
+	padding-right: 5px;
+}
+.gegwaarde {
+	display: table-cell;
+}
+.bigtitel {
+	font-weight: bold;
+	padding-top: 5px;
+}
+.bigwaarde {
+}
+.foto-landscape .opmerkingen {
+	float: left;
+	width: 100%;
+	height: 107px; 
+	overflow-y: auto;
+}
+.foto-portrait .opmerkingen {
+}
+.opmtitel {
+	padding-top: 5px;
+	font-weight: bold;
+}
+.opmwaarde {
+}
