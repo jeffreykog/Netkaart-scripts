@@ -273,7 +273,7 @@ if ($type=='none') {
 		$height = ($nrsp * 15) + ($nrsp-1);
 	}
 	if ($naam<>'') {
-		$font = 'ARLRDBD.TTF';
+		$font = 'Arial-Unicode-Bold.ttf';
 		$type_space = imagettfbbox($font_size, 0, $font, $naam);
 		$width = 36 + abs($type_space[4] - $type_space[0]);
 	} else {
@@ -304,7 +304,7 @@ if ($type=='none') {
 
 if ($type=='mast') {
 	if ($naam<>'') {
-		$font = 'ARIALUNI.TTF';
+		$font = 'Arial-Unicode-Regular.ttf';
 		$type_space = imagettfbbox($font_size, 0, $font, $naam);
 		$width = 32 + abs($type_space[4] - $type_space[0]);
 	} else {
@@ -325,7 +325,7 @@ if ($type=='mast') {
  
 if ($type=='knpp') {
 	if ($naam<>'') {
-		$font = 'ARIALUNI.TTF';
+		$font = 'Arial-Unicode-Regular.ttf';
 		$type_space = imagettfbbox($font_size, 0, $font, $naam);
 		$width = 26 + abs($type_space[4] - $type_space[0]);
 	} else {
