@@ -274,7 +274,7 @@ if ($type=='none') {
 	}
 	if ($naam<>'') {
 		$font = 'arial-bold.ttf';
-		$type_space = imagettfbbox($font_size, 0, $font, utf8_decode($naam));
+		$type_space = imagettfbbox($font_size, 0, $font, $naam);
 		$width = 36 + abs($type_space[4] - $type_space[0]);
 	} else {
 		$width = 63;
@@ -296,7 +296,7 @@ if ($type=='none') {
 		} else {
 			$yoffs = ($nrsp-1)*15-6+$font_size;
 		}
-		imagettftext($dest, $font_size, 0, 32, $yoffs, $textcolor, $font, utf8_decode($naam));
+		imagettftext($dest, $font_size, 0, 32, $yoffs, $textcolor, $font, $naam);
 		}
 	$scale = getIconScale('StationsIcoon',$span[0]);
 	showcolors($nrsp, $span);
