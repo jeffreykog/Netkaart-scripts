@@ -79,7 +79,7 @@ function printerror ($tekst){
 	echo '</div></div>';
 }
 
-header('Content-Type: text/html; charset=LATIN-1');
+header('Content-Type: text/html; charset="UTF-8"');
 echo '<!DOCTYPE html><html><head><link rel="stylesheet" type="text/css" href="balloon3.css?'.time().'"></head><body>';
 
 if (isset($_GET['ID'])) {
