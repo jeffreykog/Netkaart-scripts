@@ -57,7 +57,7 @@ function TekenVerbindingen($land) {
 			if ($rij['Beheerder']<>$ouderij['Beheerder'] or $BovenGesprongen) {
 				$huidiglevel = naarlevel(1,$huidiglevel);
 				$kml[] = '<Folder>';
-				$kml[] = 	'<name>Concessie '. htmlspecialchars($rij['Beheerder'], ENT_QUOTES, "ISO-8859-1", true) . '</name>';
+				$kml[] = 	'<name>Concessie '. htmlspecialchars($rij['Beheerder'], ENT_QUOTES, "UTF-8", true) . '</name>';
 				$huidiglevel++;
 				$BovenGesprongen = TRUE;
 			}
@@ -65,7 +65,7 @@ function TekenVerbindingen($land) {
 				if ($rij['DeelNet']<>'') {
 					$huidiglevel = naarlevel(2,$huidiglevel);
 					$kml[] = '<Folder>';
-					$kml[] = 	'<name>Deelnet '. htmlspecialchars($rij['DeelNet'], ENT_QUOTES, "ISO-8859-1", true) . '</name>';
+					$kml[] = 	'<name>Deelnet '. htmlspecialchars($rij['DeelNet'], ENT_QUOTES, "UTF-8", true) . '</name>';
 					$huidiglevel++;
 					$BovenGesprongen = TRUE;
 				}
@@ -87,7 +87,7 @@ function TekenVerbindingen($land) {
 			}
 			$rij['ID'] = 'v'. $rij['ID'];
 			$kml[] = '<Placemark id="' . $rij['ID'] . '">';
-			$kml[] = '<name>' . htmlspecialchars($rij['Naam'], ENT_QUOTES, "ISO-8859-1", true)  . '</name>';
+			$kml[] = '<name>' . htmlspecialchars($rij['Naam'], ENT_QUOTES, "UTF-8", true)  . '</name>';
 			$rij['Lengte'] = number_format(greatCircleLength($rij['lijn'])/1000, 2, ',', '.'); 
 			VoegDataIn($rij);
 			if ($rij['HoofdType']=='Kabel') {
