@@ -30,6 +30,7 @@ require('masten.php');
 // Opens a connection to a MySQL server.
 $connection = mysqli_connect ($server, $username, $password, $database);
 if (!$connection) { die(LogMySQLError(mysqli_connect_error(), basename(__FILE__),'Not connected to MySQL')); }
+mysqli_query($connection, "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
 
 // Creates an array of strings to hold the lines of the KML file.
 $kml = array('<?xml version="1.0" encoding="UTF-8"?>');
