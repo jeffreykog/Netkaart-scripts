@@ -338,7 +338,7 @@ if (isset($_GET['Viewer']) AND $_GET['Viewer']=='Browser') {
 	echo '<!DOCTYPE html><html>';	
 	echo '<head><title>Netkaartballoon</title>';
 	echo '  <link rel="stylesheet" type="text/css" href="netkaart.css">';
-	echo '  <meta charset="UTF-8">';
+	echo ' <meta charset="UTF-8">';
 	echo '</head><body>';
 }
 $FotoURLOK = isValidImageURL($rij['FotoURL']);
