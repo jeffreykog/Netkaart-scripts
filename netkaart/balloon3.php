@@ -25,7 +25,7 @@ if(isset($_COOKIE['NKformLanguage'])) {
 function vertaal($str){
 	global $translate;
 	$vert = $translate->__($str);
-	return utf8_decode($vert);
+	return $vert;
 }
 
 function checkyears ($jaar){

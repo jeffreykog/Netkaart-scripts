@@ -216,7 +216,7 @@ function DisplayCircuits ($tablerow, $disprow){
 		while($verbing = mysqli_fetch_array($gegevens)) {
 			$temp = $temp . $verbing['Naam'] . "<br>";
 		}
-		return '<div class="balloon-bigtitel">'.vertaal("Circuits").'</div><div class="balloon-bigwaarde">'.utf8_encode($temp).'</div>';
+		return '<div class="balloon-bigtitel">'.vertaal("Circuits").'</div><div class="balloon-bigwaarde">'.$temp.'</div>';
 	} else {
 		$delimiters = ' .,;-|\\/';
 		$lijnen = rtrim($tablerow[$disprow['Column']], $delimiters);
@@ -230,12 +230,12 @@ function DisplayCircuits ($tablerow, $disprow){
 		while($verbing = mysqli_fetch_array($gegevens)) {
 			$temp = $temp . $verbing['Naam'] . "<br>";
 		}
-		return '<div class="balloon-bigtitel">'.vertaal($disprow['DisplayNaam']).'</div><div class="balloon-bigwaarde">'. utf8_encode($temp).'</div>';
+		return '<div class="balloon-bigtitel">'.vertaal($disprow['DisplayNaam']).'</div><div class="balloon-bigwaarde">'.$temp.'</div>';
 	}
 }
 
 function DisplayOpmerkingen ($tablerow, $disprow) {
-	return '<div class="opmerkingen"><div class="balloon-opmtitel">'.vertaal($disprow['DisplayNaam']).'</div><div class="balloon-opmwaarde">'.utf8_encode($tablerow[$disprow['Column']]).'</div></div>';
+	return '<div class="opmerkingen"><div class="balloon-opmtitel">'.vertaal($disprow['DisplayNaam']).'</div><div class="balloon-opmwaarde">'.$tablerow[$disprow['Column']].'</div></div>';
 }
 
 function DisplayLengte ($tablerow, $disprow) {
@@ -307,7 +307,7 @@ function DisplayValues ($type, $tablerow, $disprow) {
 	$retval='';
 	for ($x = 1; $x < count($disprow)-1; $x++) {
 		if ($disprow[$x]['Type']=='Small') {
-//			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.utf8_encode($tablerow[$disprow[$x]['Column']]).' '.$disprow[$x]['Suffix'].'</div></div>';
+//			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.$tablerow[$disprow[$x]['Column']].' '.$disprow[$x]['Suffix'].'</div></div>';
 			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.$tablerow[$disprow[$x]['Column']].' '.$disprow[$x]['Suffix'].'</div></div>';
 		} elseif ($disprow[$x]['Type']=='Big') {
 			$retval .= '<div class="balloon-gegevensbig"><div class="balloon-bigtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-bigwaarde">'.$tablerow[$disprow[$x]['Column']].'</div></div>';
