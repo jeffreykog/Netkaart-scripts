@@ -117,7 +117,7 @@ if ($editTP == 'v') {
 // Opens a connection to a MySQL server.
 $connection = mysqli_connect ($server, $username, $password, $database);
 if (!$connection) {	die(LogMySQLError(mysqli_connect_error(), basename(__FILE__),'Not connected to MySQL')); }
-mysqli_query($connection, "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
+mysqli_query($connection, "SET  character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
 // Het data from record.
 $gegevens = mysqli_query($connection, $query);
 if (!$gegevens) { die(LogMySQLError(mysqli_error($connection), basename(__FILE__),'Invalid query'));}
