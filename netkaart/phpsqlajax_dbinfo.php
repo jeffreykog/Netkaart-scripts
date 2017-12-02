@@ -9,8 +9,9 @@
 /* And a checklogin function             */
 /* ===================================== */
 
- require_once ('/home/deb99417/domains/hoogspanningsnet.com/netkaart_config/database_login.php');
- 
+// require_once ('/home/deb99417/domains/hoogspanningsnet.com/netkaart_config/database_login.php');
+require_once ('/home/deb99417/domains/hoogspanningsnet.com/netkaart_config/testkaart_login.php');
+
  $IconDir 		= 'files/';
  $UseDir 		= '';
  $WebServer 		= 'https://testserver.hoogspanningsnet.com/netkaart/';
