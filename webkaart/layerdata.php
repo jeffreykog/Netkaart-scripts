@@ -165,6 +165,8 @@ if ($sql<>''){
 	// Opens a connection to a MySQL server.
 	$connection = mysqli_connect ($server, $username, $password, $database);
 	if (!$connection) { die(LogMySQLError(mysqli_connect_error(), basename(__FILE__), 'MySQL Not connected'));}
+	mysqli_query($connection, "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
+	
 
 //execute query
 // =========================== View logging ===========================
