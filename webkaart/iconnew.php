@@ -304,7 +304,7 @@ if ($type=='none') {
 
 if ($type=='mast') {
 	if ($naam<>'') {
-		$font = 'arial.ttf';
+		$font = 'Arial-Unicode-Regular.ttf';
 		$type_space = imagettfbbox($font_size, 0, $font, $naam);
 		$width = 32 + abs($type_space[4] - $type_space[0]);
 	} else {
