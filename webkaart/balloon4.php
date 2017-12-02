@@ -108,6 +108,7 @@ if ($editTP == 'v') {
 $connection = mysqli_connect ($server, $username, $password, $database);
 if (!$connection) {	die(LogMySQLError(mysqli_connect_error(), basename(__FILE__), vertaal('Er kan op dit moment geen verbinding gemaakt worden met de netkaart-database, probeer het over 20 seconden normaals')).'.'); }
 // Het data from record.
+mysqli_query($connection, "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
 $gegevens = mysqli_query($connection, $query);
 if (!$gegevens) { die(LogMySQLError(mysqli_error($connection), basename(__FILE__), vertaal('Foute query')));}
 $rij = mysqli_fetch_assoc($gegevens);
@@ -306,7 +307,8 @@ function DisplayValues ($type, $tablerow, $disprow) {
 	$retval='';
 	for ($x = 1; $x < count($disprow)-1; $x++) {
 		if ($disprow[$x]['Type']=='Small') {
-			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.utf8_encode($tablerow[$disprow[$x]['Column']]).' '.$disprow[$x]['Suffix'].'</div></div>';
+//			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.utf8_encode($tablerow[$disprow[$x]['Column']]).' '.$disprow[$x]['Suffix'].'</div></div>';
+			$retval .= '<div class="balloon-gegevensrij"><div class="balloon-gegtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-gegwaarde">'.$tablerow[$disprow[$x]['Column']].' '.$disprow[$x]['Suffix'].'</div></div>';
 		} elseif ($disprow[$x]['Type']=='Big') {
 			$retval .= '<div class="balloon-gegevensbig"><div class="balloon-bigtitel">'.vertaal($disprow[$x]['DisplayNaam']).'</div><div class="balloon-bigwaarde">'.$tablerow[$disprow[$x]['Column']].'</div></div>';
 		} elseif ($disprow[$x]['Type']=='Func') {
@@ -336,6 +338,7 @@ if (isset($_GET['Viewer']) AND $_GET['Viewer']=='Browser') {
 	echo '<!DOCTYPE html><html>';	
 	echo '<head><title>Netkaartballoon</title>';
 	echo '  <link rel="stylesheet" type="text/css" href="netkaart.css">';
+	echo '  <meta charset="UTF-8">';
 	echo '</head><body>';
 }
 $FotoURLOK = isValidImageURL($rij['FotoURL']);
