@@ -201,7 +201,8 @@ if ($sql<>''){
 }
 header('Content-type: application/json');
 // echo json_encode($geojson, JSON_NUMERIC_CHECK);
-$json = utf8_encode_all($geojson);
+//$json = utf8_encode_all($geojson);
+$json = $geojson;
 echo json_encode($json);
 $conn = NULL;
 $time_elapsed = microtime(true) - $start;
