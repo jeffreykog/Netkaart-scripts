@@ -31,7 +31,7 @@ function CheckChanges($kaartid, $nieuwen, $ouden, $dbase) {
 		$val=$nieuwen[$key];
 		
 		if ($val != $ouden[$key] AND $key!='submit' AND $key!='log') {
-			$chgquery = $chgquery . '`' . $key . '`="'.val.'",';
+			$chgquery = $chgquery . '`' . $key . '`="'.$val.'",';
 			$chqstr = $chqstr. ' '.$key. ',';
 		}
 		next($nieuwen);
