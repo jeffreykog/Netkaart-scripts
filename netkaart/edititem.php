@@ -63,8 +63,8 @@ function CheckChanges($kaartid, $nieuwen, $ouden, $dbase) {
 
 // Opens a connection to a MySQL server.
 $connection = mysqli_connect ($server, $username, $password, $database);
-
 if (!$connection) {	die(LogMySQLError(mysqli_connect_error(), basename(__FILE__),'Not connected : ' . mysqli_error($connection))); }
+mysqli_query($connection, "SET  character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
 
 $loggedin = CheckLoggedIn(FALSE);
 // $loggedin = false;
@@ -100,7 +100,6 @@ if ($editTP == 'v') {
 
 $gegevens = mysqli_query($connection, $query);
 if (!$gegevens) { die(LogMySQLError(mysqli_error($connection), basename(__FILE__), 'Invalid query: ' . mysqli_error($connection))); }
-mysqli_query($connection, "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
 
 $rij = mysqli_fetch_assoc($gegevens);
 if ($editTP == 'v') {
