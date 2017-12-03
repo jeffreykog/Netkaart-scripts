@@ -22,7 +22,7 @@ function GeefDataWeer ($rijtje, $loggedin) {
 			echo '<tr><td>'.htmlentities($key) .'</td>';
 			if ($loggedin) { 
 				if (htmlentities($key)<>'ID') {
-					echo '<td><input type="text" size="60" name="' .htmlentities($key) .'" value="'.htmlspecialchars($val, ENT_QUOTES, "ISO-8859-1", true).'"></td></tr>';
+					echo '<td><input type="text" size="60" name="' .$key .'" value="'.$val.'"></td></tr>';
 				} else {
 					echo '<td>'.$val .'</td></tr>';
 				}	
