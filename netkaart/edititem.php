@@ -77,23 +77,23 @@ echo '<html><head><meta charset="UTF-8"></head><body>';
 echo '<font face="arial"><div style="width:620px; height:320px; overflow:auto;"><table>';
 
 if ($editTP == 'v') {
-	echo '<tr><td valign=middle><b>Hoogspanningsverbinding</b></td><td><img src="https://testserver.hoogspanningsnet.com/netkaart/files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
+	echo '<tr><td valign=middle><b>Hoogspanningsverbinding</b></td><td><img src="files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
 	$query = 'SELECT *, astext(linestring) as lijn FROM Verbindingen WHERE ID="'.$editID.'"';
 	$table = 'Verbindingen';
 } elseif ($editTP == 's') {
-	echo '<tr><td valign=middle><b>Transformatorstation</b></td><td><img src="https://testserver.hoogspanningsnet.com/netkaart/files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
+	echo '<tr><td valign=middle><b>Transformatorstation</b></td><td><img src="files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
 	$query = 'SELECT * FROM Stationsiconen WHERE ID="'.$editID.'"';
 	$table = 'Stationsiconen';
 } elseif ($editTP == 'm') {
-	echo '<tr><td valign=middle><b>Hoogspanningsmast</b></td><td><img src="https://testserver.hoogspanningsnet.com/netkaart/files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
+	echo '<tr><td valign=middle><b>Hoogspanningsmast</b></td><td><img src="files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
 	$query = 'SELECT * FROM Masten WHERE ID="'.$editID.'"';
 	$table = 'Masten';
 } elseif ($editTP == 't') {
-	echo '<tr><td valign=middle><b>Hoogspanningsstation</b></td><td><img src="https://testserver.hoogspanningsnet.com/netkaart/files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
+	echo '<tr><td valign=middle><b>Hoogspanningsstation</b></td><td><img src="files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
 	$query = 'SELECT * FROM Stations WHERE ID="'.$editID.'"';
 	$table = 'Stations';
 } elseif ($editTP == 'k') {
-	echo '<tr><td valign=middle><b>Knooppunt</b></td><td><img src="https://testserver.hoogspanningsnet.com/netkaart/files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
+	echo '<tr><td valign=middle><b>Knooppunt</b></td><td><img src="files/embleem_hoogspanningsnet_transpa.png"></td></tr>';
 	$query = 'SELECT * FROM Knooppunten WHERE ID="'.$editID.'"';
 	$table = 'Knooppunten';
 }
