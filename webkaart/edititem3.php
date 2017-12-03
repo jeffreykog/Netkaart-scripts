@@ -30,8 +30,8 @@ function CheckChanges($kaartid, $nieuwen, $ouden, $dbase) {
 		$key=key($nieuwen);
 		$val=$nieuwen[$key];
 		
-		if ($val != utf8_encode($ouden[$key]) AND $key!='submit' AND $key!='log') {
-			$chgquery = $chgquery . '`' . $key . '`="'.utf8_decode($val).'",';
+		if ($val != $ouden[$key] AND $key!='submit' AND $key!='log') {
+			$chgquery = $chgquery . '`' . $key . '`="'.val.'",';
 			$chqstr = $chqstr. ' '.$key. ',';
 		}
 		next($nieuwen);
@@ -114,12 +114,12 @@ function DisplayInput ($tablerow, $disprow) {
 	
 	if ($loggedin) {
 		if ($disprow['Suffix']!=='') {
-			return '<div class="edititem-geginputsuff"><input type="text" name="'.$disprow['Column'].'" value="'.utf8_encode($tablerow[$disprow['Column']]).'"> '.$disprow['Suffix'].'</div>';
+			return '<div class="edititem-geginputsuff"><input type="text" name="'.$disprow['Column'].'" value="'.$tablerow[$disprow['Column']].'"> '.$disprow['Suffix'].'</div>';
 		} else {
-			return '<div class="edititem-geginput"><input type="text" name="'.$disprow['Column'].'" value="'.utf8_encode($tablerow[$disprow['Column']]).'"></div>';
+			return '<div class="edititem-geginput"><input type="text" name="'.$disprow['Column'].'" value="'.$tablerow[$disprow['Column']].'"></div>';
 		}
 	} else {
-		return '<div class="edititem-geginput">'.utf8_encode($tablerow[$disprow['Column']]).' '.$disprow['Suffix'].'</div>';
+		return '<div class="edititem-geginput">'.$tablerow[$disprow['Column']].' '.$disprow['Suffix'].'</div>';
 	}
 }
 
@@ -127,9 +127,9 @@ function DisplayDate ($tablerow, $disprow) {
 	global $loggedin;
 
 	if ($loggedin) {
-		return '<div class="edititem-geginput"><input type="number" name="'.$disprow['Column'].'" min="0" max="9999" value="'.utf8_encode($tablerow[$disprow['Column']]).'"> '.$disprow['Suffix'].'</div>';
+		return '<div class="edititem-geginput"><input type="number" name="'.$disprow['Column'].'" min="0" max="9999" value="'.$tablerow[$disprow['Column']].'"> '.$disprow['Suffix'].'</div>';
 	} else { 
-		return '<div class="edititem-geginput">'.utf8_encode($tablerow[$disprow['Column']]).' '.$disprow['Suffix'].'</div>';
+		return '<div class="edititem-geginput">'.$tablerow[$disprow['Column']].' '.$disprow['Suffix'].'</div>';
 	}
 }
 
@@ -137,9 +137,9 @@ function DisplayBigInput ($tablerow, $disprow) {
 	global $loggedin;
 
 	if ($loggedin) {
-		return '<div class="edititem-bigwaarde"><textarea id="'.$disprow['Column'].'textarea" onkeydown="if(event.keyCode == 13) {document.getElementById(\''.$disprow['Column'].'textarea\').value = document.getElementById(\''.$disprow['Column'].'textarea\').value + \'\n\'; return false;};"rows="4" name="'.$disprow['Column'].'">'.utf8_encode($tablerow[$disprow['Column']]).'</textarea></div>';
+		return '<div class="edititem-bigwaarde"><textarea id="'.$disprow['Column'].'textarea" onkeydown="if(event.keyCode == 13) {document.getElementById(\''.$disprow['Column'].'textarea\').value = document.getElementById(\''.$disprow['Column'].'textarea\').value + \'\n\'; return false;};"rows="4" name="'.$disprow['Column'].'">'.$tablerow[$disprow['Column']].'</textarea></div>';
 	} else {
-		return '<div class="edititem-bigwaarde">'.utf8_encode($tablerow[$disprow['Column']]).'</div>';
+		return '<div class="edititem-bigwaarde">'.$tablerow[$disprow['Column']].'</div>';
 	}
 }
 
@@ -163,7 +163,7 @@ function DisplayPulldown ($tablerow, $disprow) {
 	if ($loggedin) {
 		return '<div class="edititem-geginput"><select name="'.$disprow['Column'].'">'.PulldownValues($disprow['AllowedValues'], $tablerow[$disprow['Column']]).'</select></div>';
 	} else {
-		return '<div class="edititem-geginput">'.utf8_encode($tablerow[$disprow['Column']]).'</div>';
+		return '<div class="edititem-geginput">'.$tablerow[$disprow['Column']].'</div>';
 	}
 }
 
@@ -184,7 +184,7 @@ function DisplayLog($tablerow, $disprow) {
 	$retval = '<div class="edititem-gegrij"><div class="edititem-bigtitel">'.vertaal($disprow['DisplayNaam']).'</div>';
 	$retval .= '<div class="edititem-bigwaarde"><input type="hidden" name="'.$disprow['Column'].'" value="'.$tablerow[$disprow['Column']].'">';
 	if ($tablerow[$disprow['Column']]<>'') {
-		$retval .= '<i>'.utf8_encode(nl2br($tablerow[$disprow['Column']])).'</i>';
+		$retval .= '<i>'.nl2br($tablerow[$disprow['Column']]).'</i>';
 	} else {
 		$retval .= '<i>'.vertaal('Geen wijzigingen').'.</i>';	
 	}
