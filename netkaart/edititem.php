@@ -72,8 +72,8 @@ $loggedin = CheckLoggedIn(FALSE);
 $editID = $_GET['ID'];
 $editTP = $editID[0];
 $editID = substr($editID,1);
-header('Content-Type: text/html; charset=LATIN-1');
-echo '<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"></head><body>';
+header('Content-Type: text/html; charset=UTF-8');
+echo '<html><head><meta charset="UTF-8"></head><body>';
 echo '<font face="arial"><div style="width:620px; height:320px; overflow:auto;"><table>';
 
 if ($editTP == 'v') {
