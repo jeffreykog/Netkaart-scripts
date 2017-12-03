@@ -73,7 +73,7 @@ $editID = $_GET['ID'];
 $editTP = $editID[0];
 $editID = substr($editID,1);
 header('Content-Type: text/html; charset=LATIN-1');
-echo '<html><head><meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"></head><body>';
+echo '<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"></head><body>';
 echo '<font face="arial"><div style="width:620px; height:320px; overflow:auto;"><table>';
 
 if ($editTP == 'v') {
@@ -129,7 +129,7 @@ if ($_POST['submit']=='Invoeren!' AND $loggedin) {
 	}
 }
 if ($loggedin) {
-	echo '<form accept-charset="ISO-8859-1" name="editdata" method="post" action="edititem.php?ID='.$_GET['ID'].'&Submitted=True">';
+	echo '<form accept-charset="UTF-8" name="editdata" method="post" action="edititem.php?ID='.$_GET['ID'].'&Submitted=True">';
 }
  
 GeefDataWeer($rij, $loggedin);
