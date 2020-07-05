@@ -127,6 +127,9 @@ mysqli_close($connection);
 	
 	<!-- Settings -->
 	<script src="NetkaartSettings.js"></script>
+
+	<!-- Markers -->
+	<script src="NetkaartMarkers.js"></script>
 	
 	<!-- Netkaart layers -->
 	<script src="NetkaartLayers.js"></script>

@@ -111,15 +111,8 @@ L.GeoJSON.Ajax.Knooppunten = L.GeoJSON.Ajax.extend({
 	}
 });
 
-//Function to style Masten Labels
-function styleMastlabels(feat) {
-	return {"iconUrl": 'iconnew.php?type=mast&spans=' + feat.Spanning + '&naam=' + decode_utf8(feat.Naam.split("-").pop()), 
-			"iconAnchor": [10,9], 
-			"className": 'netkaart-mastenicon',
-	}
-}
-
 //Define Mastenlayer
+var mastIcoonRenderer = L.canvas({padding: 0.03, pane: 'markerPane'});
 L.GeoJSON.Ajax.MastIconen = L.GeoJSON.Ajax.extend({
 	options: {
 		urlGeoJSON: 'layerdata.php',
@@ -131,12 +124,17 @@ L.GeoJSON.Ajax.MastIconen = L.GeoJSON.Ajax.extend({
 		orignaam: 'masten',
 		naam: vertaal('Masten'),
 		pane: 'netkaart-masticon-pane',
-	  	style: function(feature) {
-			return styleMastlabels(feature.properties);
- 		},
+		pointToLayer: (feature, latlng) => {
+			return new L.MastIconMarker(latlng, {
+				renderer: mastIcoonRenderer,
+				voltage: feature.properties.Spanning,
+				name: decode_utf8(feature.properties.Naam.split("-").pop())
+			});
+		},
 	}
 });
 
+var verbindingenRenderer = L.canvas({padding: 0});
 // Style functie voor de verbindingen layer
 function styleVerbinding(feat) {
 	var x = xmlDoc.getElementsByTagName("Spanning");
@@ -144,7 +142,7 @@ function styleVerbinding(feat) {
 			if (feat.Spanning>= parseFloat(x[i].getAttribute("LaagGrens")) && feat.Spanning <= parseFloat(x[i].getAttribute("HoogGrens"))) {
 				var stijl = xmlDoc.getElementsByTagName(feat.HoofdType);
 //				console.log(feat.Spanning);
-				return {"color": "#" + stijl[i].getAttribute("Color"), "weight": Math.ceil(stijl[i].getAttribute("Width")), "opacity": stijl[i].getAttribute("Alpha")/100};
+				return {"color": "#" + stijl[i].getAttribute("Color"), "weight": Math.ceil(stijl[i].getAttribute("Width")), "opacity": stijl[i].getAttribute("Alpha")/100, "renderer": verbindingenRenderer};
 			}
 	  }	
  }
