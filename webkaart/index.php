@@ -115,9 +115,6 @@ mysqli_close($connection);
 	<link  href="plugins/leaflet-locate/L.Control.Locate.min.css" rel="stylesheet" />
 	<script src="plugins/leaflet-locate/L.Control.Locate.min.js"></script>
 
-	<!-- Google plugin -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4bOBj2szTDv50hN8VgAo78itkCN92jik" async defer></script>
-
 	<!-- Make sure the netkaart still works on IE11 -->
 	<script src="plugins/es6-promise/es6-promise.min.js"></script>
 	<script>ES6Promise.polyfill();</script>
